@@ -2,6 +2,7 @@
 <head>
 	<meta http-equiv="Content-type" content="text/html; charset=utf-8">
 	<title>Adept Marketing | Mobile Marketing Summit | April 12, 2013</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 	<link rel="stylesheet" href="css/main.css" type="text/css" media="screen" title="no title" charset="utf-8">
 	<script type="text/javascript" src="//use.typekit.net/exd4onx.js"></script>
 	<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
