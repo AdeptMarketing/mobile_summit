@@ -63,7 +63,7 @@
 				<h4>Get the Client Excited</h4>
 			</li>
 			<li>
-				<h4>Write & Prioritize Content, and Develop Sitemap</h4>
+				<h4>Write &amp; Prioritize Content, and Develop Sitemap</h4>
 			</li>
 			<li>
 				<h4>Content Prototype</h4>
@@ -96,14 +96,14 @@
 	</section><!-- #section3 -->
 	
 	<section id="section4">
-		<h1>Mobile Adantages</h1>
+		<h1>Mobile Advantages</h1>
 	</section>
 	
 	<section id="section5">
 		<h1>The Future of Mobile</h1>
 		<ul>
 			<li>User Queries</li>
-			<li>Following Users: Google » desktop » mobile » brick &amp; mortor</li>
+			<li>Following Users: Google » desktop » mobile » brick &amp; mortar</li>
 			<li>Photo recognition for searches - (think 3-D QR codes)</li>
 			<li>Gestures (and not just on mobile devices)</li>
 			<li>Siri - indexing sites on command</li>
