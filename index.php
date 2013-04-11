@@ -9,17 +9,18 @@
 <body>
 	<nav role="navigation" id="nav">
       	<ul>
-			<li><a href="">Welcome</a></li>
-			<li><a href="">The 3 Options</a></li>
-			<li><a href="">Choosing The Right Option</a></li>
-			<li><a href="">Adept&rsquo;s 12-Step Responsive Process</a></li>
-			<li><a href="">Taking Advantage of Mobile.</a></li>
-			<li><a href="">The Future of Mobile</a></li>
+			<li><a href="#cover">Welcome</a></li>
+			<li><a href="#section1">The 3 Options</a></li>
+			<li><a href="#section2">Choosing The Right Option</a></li>
+			<li><a href="#section3">Adept&rsquo;s 12-Step Responsive Process</a></li>
+			<li><a href="#section4">Taking Advantage of Mobile.</a></li>
+			<li><a href="#section5">The Future of Mobile</a></li>
 		</ul>
 	</nav>
 	<img src="img/logo.png" alt="Adept Marketing" class="logo">
-	
 	<div class="container">
+	
+	<a name="cover"></a>
 	<section id="cover">
 		<h1>Mobile <br>Marketing Summit</h1>
 		<h2>April 12, 2013</h2>
@@ -28,23 +29,31 @@
 			<i>&ldquo;It Can&rsquo;t be Ignored&rdquo;</i>
 		</h3>
 	</section>
-	
+	</div><!-- .container -->
+	<div class="container">
+		
+	<a name="section1"></a>
 	<section id="section1">
 		<h1>The 3 Options</h1>
+		<div class="inner">
 		<h2>Mobile Aware:</h2> 
 		<!-- <p>Optimize images, add/configure any necessary header meta tags to ensure that site appears acceptably on mobile devices, minify and concatenate CSS and Javascript files (where possible), ensure semantic, valid CSS & HTML.</p> -->
-		<ul>
-			Optimize Images
-			
-		</ul>
-		<h2>Mobile Separate:</h2> 
-		<p>Create a separate mobile site, generally powered by the same database (when applicable) or back end.  This site may exist on a separate sub-domain (e.g. mobile.columbusartsfestival.org) Aside from the adjoining database it is a completely separate front-end site.  </p>
-		<h2>Responsive:</h2> 
-		<p>Create a single, fluid site whose content and layout change depending upon device size, resolution and capabilities.  A responsive site shares the same database, backend management systems and front end assets and code. </p>
+			<ul>
+				Optimize Images			
+			</ul>
+			<h2>Mobile Separate:</h2> 
+			<p>Create a separate mobile site, generally powered by the same database (when applicable) or back end.  This site may exist on a separate sub-domain (e.g. mobile.columbusartsfestival.org) Aside from the adjoining database it is a completely separate front-end site.  </p>
+			<h2>Responsive:</h2> 
+			<p>Create a single, fluid site whose content and layout change depending upon device size, resolution and capabilities.  A responsive site shares the same database, backend management systems and front end assets and code. </p>
+		</div>
 	</section><!-- #section1 -->
-	
+	</div><!-- .container -->
+	<div class="container">
+
+	<a name="section2"></a>
 	<section id="section2">
 		<h1>Choosing the right option</h1>
+		<div class="inner">
 		<h2>User needs </h2>
 		<ul>
 			<li>What kind of content will the user need when using his or her phone (&#8220;Mobile First&#8221; approach)</li>
@@ -58,15 +67,20 @@
 			<li>How</li>
 		</ul>
 		<p>Answers to these questions govern design and development decisions along with content hierarchy.</p>
-		<h2>Client Restrictions and Needs</h2>
+		<h2>Client Restrictions & Needs</h2>
 		<ul>
 			<li>Expense</li>
 			<li>Time Constraints</li>
 		</ul>
+		</div>
 	</section><!-- #section2 -->
+	</div><!-- .container -->
+	<div class="container">
 	
+	<a name="section3"></a>
 	<section id="section3">
 		<h1>Adept&rsquo;s 12-Step Responsive Process</h1>
+		<div class="inner">
 		<ol>
 			<li>
 				<h4>Internal Kick-Off Meeting</h4>
@@ -105,12 +119,19 @@
 				<h4>Launch</h4>
 			</li>
 		</ol>
+		</div>
 	</section><!-- #section3 -->
+	</div><!-- .container -->
+	<div class="container">
 	
+	<a name="section4"></a>
 	<section id="section4">
 		<h1>Mobile Advantages</h1>
 	</section>
-	
+	</div><!-- .container -->
+	<div class="container">
+
+	<a name="section5"></a>
 	<section id="section5">
 		<h1>The Future of Mobile</h1>
 		<ul>
@@ -127,6 +148,6 @@
 	
 	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js"></script>
 	<script>window.jQuery || document.write('<script src="js/vendor/jquery-1.9.0.min.js"><\/script>')</script>
-	<script src="js/plugins-ck.js" type="text/javascript" charset="utf-8"></script>
+	<script src="js/plugins.js" type="text/javascript" charset="utf-8"></script>
 	<script src="js/main-ck.js" type="text/javascript" charset="utf-8"></script>
 </body>
