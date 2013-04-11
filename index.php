@@ -33,7 +33,6 @@
 	</section>
 	</div><!-- .container -->
 	<div class="container">
-		
 	<a name="section1"></a>
 	<section id="section1">
 		<h1>The 3 Options</h1>
@@ -72,12 +71,12 @@
 		<h2>User needs </h2>
 		<ul>
 			<li>What kind of content will the user need when using his or her phone (&#8220;Mobile First&#8221; approach)</li>
-			<li><a href="http://murrayhillfamilydental.com" title="Cosmetic Dentist Grove City OH | Lincoln Village | Galloway, Ohio">Murray Hill</a>vs.
+			<li><a href="http://murrayhillfamilydental.com" title="Cosmetic Dentist Grove City OH | Lincoln Village | Galloway, Ohio">Murray Hill</a> vs.
 				<a href="http://dawesarb.org" title="Dawes Arboretum">Dawes Arboretum</a>
 				<br />
 				<img src="img/examples/murray-hill.png" alt="Murray Hill Screenshot" width="600" />
 				<img src="img/examples/dawes.png" alt="Dawes Screenshot" width="600" />
-				<div style="clear: both;"></div>
+				<div class="clearfix"></div>
 			</li>
 		</ul>
 		<h2>User Context</h2>
