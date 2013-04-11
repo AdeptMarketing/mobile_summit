@@ -46,11 +46,23 @@
 	<section id="section2">
 		<h1>Choosing the right option</h1>
 		<h2>User needs </h2>
-		<p>While impossible to anticipate every possible need a user might need when using his or her mobile phone, what kind of content is needed when using our mobile site?  For example, for a dental site, most clients will likely need directions, contact information and the ability to schedule an appointment. In this case, a responsive design is probably unnecessary and a separate, simple mobile site is more appropriate. Dawes as an example of a responsive site. </p>
+		<ul>
+			<li>What kind of content will the user need when using his or her phone (&#8220;Mobile First&#8221; approach)</li>
+			<li><a href="http://dawesarb.org" title="Dawes Arboretum">Dawes Arboretum</a> vs. <a href="http://murrayhillfamilydental.com" title="Cosmetic Dentist Grove City OH | Lincoln Village | Galloway, Ohio">Murray Hill</a>
+			</li>
+		</ul>
 		<h2>User Context</h2>
-		<p>&ldquo;Where&rdquo;, &ldquo;how&rdquo; and &ldquo;when&rdquo; will our audience be using our sites; will they typically access our site while walking (or driving?!), in a hurry, or leisurely sitting on a couch. Answers to these questions govern design and development decisions along with content hierarchy. What will they be looking for first?  Responsive:  No assumptions made; future-proofing.  (Are we presuming a particular content need? Or possibly how they are using?) </p>
-		<h2>Available Resources </h2>
-		<p>Is the client able to spend up to twice as much for a responsive design; will they be able to get the return on investment?  Part of this involves us educating clients on the benefits of a responsive design.</p>	
+		<ul>
+			<li>Where</li>
+			<li>When</li>
+			<li>How</li>
+		</ul>
+		<p>Answers to these questions govern design and development decisions along with content hierarchy.</p>
+		<h2>Client Restrictions and Needs</h2>
+		<ul>
+			<li>Expense</li>
+			<li>Time Constraints</li>
+		</ul>
 	</section><!-- #section2 -->
 	
 	<section id="section3">
