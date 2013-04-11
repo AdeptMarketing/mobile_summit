@@ -2,6 +2,8 @@
 <head>
 	<meta http-equiv="Content-type" content="text/html; charset=utf-8">
 	<title>Adept Marketing | Mobile Marketing Summit | April 12, 2013</title>
+	<meta name="viewport" content="width=device-width">
+	
 	<link rel="stylesheet" href="css/main.css" type="text/css" media="screen" title="no title" charset="utf-8">
 	<script type="text/javascript" src="//use.typekit.net/exd4onx.js"></script>
 	<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
@@ -44,11 +46,6 @@
 				<li>Ensure semantic, valid CSS &amp; HTML</li>
 			</ul>
 			<p>Example: <a href="http://autrylearning.com/" target="_blank">http://autrylearning.com/</a></p>
-			<h2>Mobile Separate:</h2> 
-			<p>Create a separate mobile site, generally powered by the same database (when applicable) or back end.  This site may exist on a separate sub-domain (e.g. mobile.columbusartsfestival.org) Aside from the adjoining database it is a completely separate front-end site.  </p>
-
-			<h2>Responsive:</h2> 
-			<p>Create a single, fluid site whose content and layout change depending upon device size, resolution and capabilities.  A responsive site shares the same database, backend management systems and front end assets and code. </p>
 			<h2>Mobile Separate:</h2> 
 			<ul>
 				<li>A separate front-end site</li>
@@ -119,6 +116,7 @@
 			</li>
 			<li>
 				<h4>Visual Style Guide</h4>
+				<a href="" target="_blank"></a>
 			</li>
 			<li>
 				<h4>Design Desktop Site</h4>
