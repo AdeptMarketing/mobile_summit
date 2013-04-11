@@ -12,7 +12,7 @@
 			<li><a href="">Welcome</a></li>
 			<li><a href="">The 3 Options</a></li>
 			<li><a href="">Choosing The Right Option</a></li>
-			<li><a href="">Adept&rsquo;s Responsive 12-Step Process</a></li>
+			<li><a href="">Adept&rsquo;s 12-Step Responsive Process</a></li>
 			<li><a href="">Taking Advantage of Mobile.</a></li>
 			<li><a href="">The Future of Mobile</a></li>
 		</ul>
