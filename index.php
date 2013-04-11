@@ -32,7 +32,6 @@
 	</section>
 	</div><!-- .container -->
 	<div class="container">
-		
 	<a name="section1"></a>
 	<section id="section1">
 		<h1>The 3 Options</h1>
@@ -76,7 +75,7 @@
 				<br />
 				<img src="img/examples/murray-hill.png" alt="Murray Hill Screenshot" width="600" />
 				<img src="img/examples/dawes.png" alt="Dawes Screenshot" width="600" />
-				<div style="clear: both;"></div>
+				<div class="clearfix"></div>
 			</li>
 		</ul>
 		<h2>User Context</h2>
