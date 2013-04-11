@@ -8,20 +8,21 @@
 	<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
 </head>
 <body>
+	<a name="cover"></a>
+	
 	<nav role="navigation" id="nav">
       	<ul>
 			<li><a href="#cover">Welcome</a></li>
 			<li><a href="#section1">The 3 Options</a></li>
-			<li><a href="#section2">Choosing The Right Option</a></li>
-			<li><a href="#section3">Adept&rsquo;s 12-Step Responsive Process</a></li>
-			<li><a href="#section4">Taking Advantage of Mobile.</a></li>
-			<li><a href="#section5">The Future of Mobile</a></li>
+			<li><a href="#section2">Choosing an Option</a></li>
+			<li><a href="#section3">Our Responsive Process</a></li>
+			<li><a href="#section4">The Mobile Advantage</a></li>
+			<li><a href="#section5">The Future</a></li>
 		</ul>
 	</nav>
 	<img src="img/logo.png" alt="Adept Marketing" class="logo">
 	<div class="container">
 	
-	<a name="cover"></a>
 	<section id="cover">
 		<h1>Mobile <br>Marketing Summit</h1>
 		<h2>April 12, 2013</h2>
@@ -112,10 +113,11 @@
 			</li>
 			<li>
 				<h4>Content Prototype</h4>
+				<a href="http://demo.marketingadept.com/adept/style-tiles/" target="_blank">Example</a>
 			</li>
 			<li>
 				<h4>Visual Style Guide</h4>
-				<a href="" target="_blank"></a>
+				<a href="http://building.seesparkbox.com/content-prototype/index.php" target="_blank">Example</a>
 			</li>
 			<li>
 				<h4>Design Desktop Site</h4>
@@ -147,6 +149,16 @@
 	<a name="section4"></a>
 	<section id="section4">
 		<h1>Mobile Advantages</h1>
+		<div class="inner">
+			<h3>Enhancing The User experience</h3>
+			<ul>
+				<li>Gesturing</li>
+				<li>Geolocation</li>
+				<li>Animation</li>
+				<li>HTML5/CSS3</li>
+			</ul>
+			<div class="clear"></div>
+		</div>
 	</section>
 	</div><!-- .container -->
 	<div class="container">
@@ -154,14 +166,35 @@
 	<a name="section5"></a>
 	<section id="section5">
 		<h1>The Future of Mobile</h1>
+		<div class="inner">
 		<ul>
-			<li>User Queries</li>
-			<li>Following Users: Google » desktop » mobile » brick &amp; mortar</li>
-			<li>Photo recognition for searches - (think 3-D QR codes)</li>
-			<li>Gestures (and not just on mobile devices)</li>
-			<li>Siri - indexing sites on command</li>
-			<li>Choosing a voice for your website, literally. </li>
+			<li>
+				User Queries
+				<small>customized experiences</small>
+			</li>
+			<li>
+				Following Users
+				<small>Google » desktop » mobile » brick &amp; mortar</small>
+			</li>
+			<li>
+				Photo recognition for searches
+				<small>think 3-D QR codes</small>
+			</li>
+			<li>
+				Gestures
+				<small>and not just on mobile devices</small>
+			</li>
+			<li>
+				Siri
+				<small>indexing sites on command</small>
+			</li>
+			<li>
+				Choosing a voice for your website
+				<small>literally</small>
+			</li>
 		</ul>
+		<div class="clear"></div>
+		</div>
 	</section>
 	
 	</div><!-- .container -->
