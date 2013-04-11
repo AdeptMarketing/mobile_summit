@@ -3,7 +3,6 @@
 	<meta http-equiv="Content-type" content="text/html; charset=utf-8">
 	<title>Adept Marketing | Mobile Marketing Summit | April 12, 2013</title>
 	<meta name="viewport" content="width=device-width">
-	
 	<link rel="stylesheet" href="css/main.css" type="text/css" media="screen" title="no title" charset="utf-8">
 	<script type="text/javascript" src="//use.typekit.net/exd4onx.js"></script>
 	<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
@@ -169,6 +168,6 @@
 	
 	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js"></script>
 	<script>window.jQuery || document.write('<script src="js/vendor/jquery-1.9.0.min.js"><\/script>')</script>
-	<script src="js/plugins.js" type="text/javascript" charset="utf-8"></script>
+	<script src="js/plugins-ck.js" type="text/javascript" charset="utf-8"></script>
 	<script src="js/main-ck.js" type="text/javascript" charset="utf-8"></script>
 </body>
