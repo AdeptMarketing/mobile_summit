@@ -71,7 +71,7 @@
 		<h2>User needs </h2>
 		<ul>
 			<li>What kind of content will the user need when using his or her phone (&#8220;Mobile First&#8221; approach)</li>
-			<li><a href="http://murrayhillfamilydental.com" title="Cosmetic Dentist Grove City OH | Lincoln Village | Galloway, Ohio">Murray Hill</a>vs.
+			<li><a href="http://murrayhillfamilydental.com" title="Cosmetic Dentist Grove City OH | Lincoln Village | Galloway, Ohio">Murray Hill</a> vs.
 				<a href="http://dawesarb.org" title="Dawes Arboretum">Dawes Arboretum</a>
 				<br />
 				<img src="img/examples/murray-hill.png" alt="Murray Hill Screenshot" width="600" />
