@@ -46,11 +46,6 @@
 			</ul>
 			<p>Example: <a href="http://autrylearning.com/" target="_blank">http://autrylearning.com/</a></p>
 			<h2>Mobile Separate:</h2> 
-			<p>Create a separate mobile site, generally powered by the same database (when applicable) or back end.  This site may exist on a separate sub-domain (e.g. mobile.columbusartsfestival.org) Aside from the adjoining database it is a completely separate front-end site.  </p>
-
-			<h2>Responsive:</h2> 
-			<p>Create a single, fluid site whose content and layout change depending upon device size, resolution and capabilities.  A responsive site shares the same database, backend management systems and front end assets and code. </p>
-			<h2>Mobile Separate:</h2> 
 			<ul>
 				<li>A separate front-end site</li>
 				<li>Powered by the same database (when applicable) or backend</li>
