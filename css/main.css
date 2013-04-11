@@ -1024,17 +1024,25 @@ section .inner {
   color: #555;
   margin-bottom: 10px;
 }
+/**
+ * Section 2 Specific Styles
+ */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jmoney\/Sites\/adept\/mobile-summit\/html\/css\/main\.less}line{font-family:\00003154}}
+#section2 img {
+  display: block;
+  max-width: 100%;
+}
 @media screen and (min-width: 40em) {
-  @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jmoney\/Sites\/adept\/mobile-summit\/html\/css\/main\.less}line{font-family:\00003150}}
+  @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jmoney\/Sites\/adept\/mobile-summit\/html\/css\/main\.less}line{font-family:\00003163}}
   .js #nav {
     position: relative;
     max-height: none;
   }
-  @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jmoney\/Sites\/adept\/mobile-summit\/html\/css\/main\.less}line{font-family:\00003154}}
+  @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jmoney\/Sites\/adept\/mobile-summit\/html\/css\/main\.less}line{font-family:\00003167}}
   #nav-toggle {
     display: none;
   }
-  @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jmoney\/Sites\/adept\/mobile-summit\/html\/css\/main\.less}line{font-family:\00003157}}
+  @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jmoney\/Sites\/adept\/mobile-summit\/html\/css\/main\.less}line{font-family:\00003170}}
   #nav {
     position: fixed !important;
     top: 0;
@@ -1045,7 +1053,7 @@ section .inner {
     background: #333333;
     z-index: 99999999;
   }
-  @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jmoney\/Sites\/adept\/mobile-summit\/html\/css\/main\.less}line{font-family:\00003167}}
+  @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jmoney\/Sites\/adept\/mobile-summit\/html\/css\/main\.less}line{font-family:\00003180}}
   #nav ul li {
     display: inline;
     list-style: none;
@@ -1053,31 +1061,39 @@ section .inner {
     padding: 0;
     border: none;
   }
-  @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jmoney\/Sites\/adept\/mobile-summit\/html\/css\/main\.less}line{font-family:\00003173}}
+  @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jmoney\/Sites\/adept\/mobile-summit\/html\/css\/main\.less}line{font-family:\00003186}}
   #nav ul li:before {
     content: " | ";
     color: #555;
   }
-  @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jmoney\/Sites\/adept\/mobile-summit\/html\/css\/main\.less}line{font-family:\00003177}}
+  @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jmoney\/Sites\/adept\/mobile-summit\/html\/css\/main\.less}line{font-family:\00003190}}
   #nav ul li:first-child:before {
     content: "";
   }
-  @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jmoney\/Sites\/adept\/mobile-summit\/html\/css\/main\.less}line{font-family:\00003180}}
+  @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jmoney\/Sites\/adept\/mobile-summit\/html\/css\/main\.less}line{font-family:\00003193}}
   #nav ul li a {
     display: inline-block;
     color: #fff;
     padding: 10px;
   }
-  @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jmoney\/Sites\/adept\/mobile-summit\/html\/css\/main\.less}line{font-family:\00003188}}
+  @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jmoney\/Sites\/adept\/mobile-summit\/html\/css\/main\.less}line{font-family:\00003201}}
   .logo {
     margin: 60px auto 0;
     float: none;
     display: block;
     height: 100px;
   }
-  @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jmoney\/Sites\/adept\/mobile-summit\/html\/css\/main\.less}line{font-family:\00003194}}
+  @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jmoney\/Sites\/adept\/mobile-summit\/html\/css\/main\.less}line{font-family:\00003207}}
   .container {
     padding-top: 0;
     min-height: 100%;
+  }
+  /**
+  	 * Section 2 Specific Styles
+  	 */
+  @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jmoney\/Sites\/adept\/mobile-summit\/html\/css\/main\.less}line{font-family:\00003218}}
+  #section2 img {
+    width: 50%;
+    float: left;
   }
 }
