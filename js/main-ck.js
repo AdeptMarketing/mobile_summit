@@ -1,1 +1,1 @@
-$(document).ready(function(){var e=responsiveNav("#nav");$("#cover .fittext").fitText(1.5);$("a[href*=#]").slideto({speed:800})});
+$(document).ready(function(){var e=responsiveNav("#nav");$("#cover .fittext").fitText(1.5);mediaCheck({media:"(min-width: 600px)",entry:function(){$("a[href*=#]").slideto({speed:800})},exit:function(){}})});

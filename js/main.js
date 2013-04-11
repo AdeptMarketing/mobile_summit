@@ -3,6 +3,13 @@ $(document).ready(function(){
 	
 	$('#cover .fittext').fitText(1.5);
 	
-	$('a[href*=#]').slideto({speed  : 800});
-	
+	mediaCheck({
+		media: '(min-width: 600px)',
+		entry: function(){
+			$('a[href*=#]').slideto({speed  : 800});
+		},
+		exit: function(){
+			
+		}
+    });
 });
