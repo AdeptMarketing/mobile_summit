@@ -87,17 +87,20 @@
 				</li>
 			</ul>
 			<h2>User Context</h2>
-			<ul>
+			<ul class="cols3">
 				<li>Where</li>
 				<li>When</li>
 				<li>How</li>
 			</ul>
-			<p>Answers to these questions govern design and development decisions along with content hierarchy.</p>
+			<div class="clear"></div>
+			<p align="center">Answers to these questions govern design and development decisions along with content hierarchy.</p>
+			
 			<h2 class="small">Client Restrictions &amp; Needs</h2>
-			<ul>
+			<ul class="cols2">
 				<li>Expense</li>
 				<li>Time Constraints</li>
 			</ul>
+			<div class="clear"></div>
 			<h2 class="small">PPC and SEO Recommendations</h2>
 			<object type="image/svg+xml" data="img/svg/ven.svg" class="venn"></object>
 		</div><!--.inner -->
