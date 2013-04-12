@@ -91,7 +91,7 @@
 			<ul class="cols3">
 				<li>
 					Where
-					<small>Already at an event? Some other geographic location trying to get to a particular place?</small>
+					<small>Already at an event? Some other geographic location trying to get to a particular place? <a href="http://columbusartsfestival.org/mobile/directions/" target="_blank">Example</a></small>
 				</li>
 				<li>
 					When
@@ -99,7 +99,7 @@
 				</li>
 				<li>
 					How
-					<small>Driving? Leisurely sitting on a couch? Walking? Interfacing or interacting with others?</small>
+					<small>Driving? Leisurely sitting on a couch? Walking? Interfacing or interacting with others? <a href="http://columbusartsfestival.org/mobile/" target="_blank">Example</a></small>
 				</li>
 			</ul>
 			<div class="clear"></div>
