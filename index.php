@@ -91,7 +91,6 @@
 					<figcaption>Adept Marketing Mobile View</figcaption>
 				</figure>
 				<div class="clearfix"></div>
-				
 		</div>
 	</section><!-- #section1 -->
 	</div><!-- .container -->
@@ -162,6 +161,7 @@
 	<a class="waypoint" name="section3"></a>
 	<section id="section3">
 		<h1>Adept&rsquo;s 12-Step Responsive Process</h1>
+			<img src="img/photo.jpg" class="resp-img">
 		<div class="inner">
 		<ol>
 			<li>
