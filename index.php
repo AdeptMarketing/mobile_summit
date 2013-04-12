@@ -93,13 +93,13 @@
 				<li>How</li>
 			</ul>
 			<p>Answers to these questions govern design and development decisions along with content hierarchy.</p>
-			<h2>Client Restrictions &amp; Needs</h2>
+			<h2 class="small">Client Restrictions &amp; Needs</h2>
 			<ul>
 				<li>Expense</li>
 				<li>Time Constraints</li>
 			</ul>
-			<h2>PPC and SEO Recommendations</h2>
-			<object type="image/svg+xml" data="img/svg/ven.svg"></object>
+			<h2 class="small">PPC and SEO Recommendations</h2>
+			<object type="image/svg+xml" data="img/svg/ven.svg" class="venn"></object>
 		</div><!--.inner -->
 	</section><!-- #section2 -->
 	</div><!-- .container -->

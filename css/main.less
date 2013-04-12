@@ -93,6 +93,9 @@ section {
 	}
 	h2 {
 		.ribbon(@teal, #f9f9f9, #f9f9f9);
+		&.small {
+			font-size:13px;
+		}
 	}
 	p {
 		padding:0 1rem;
@@ -305,10 +308,19 @@ ul li small {
 	 */
 	#section2
 	{
+		.venn {
+			width:70%;
+			margin:auto;
+			display:block;
+		}
 		figure
 		{
 			width: 50%;
 			float: left;
+		}
+		
+		h2.small {
+			.font-size(2);
 		}
 	}
 	#section3 {
