@@ -11,7 +11,7 @@
 
 	<nav role="navigation" id="nav">
       	<ul>
-			<li><a href="#cover">Welcome</a></li>
+			<li class="current"><a href="#cover">Welcome</a></li>
 			<li><a href="#section1">The 3 Options</a></li>
 			<li><a href="#section2">Choosing an Option</a></li>
 			<li><a href="#section3">Our Responsive Process</a></li>
@@ -20,8 +20,9 @@
 		</ul>
 	</nav>
 	<img src="img/logo.png" alt="Adept Marketing" class="logo">
+	<div class="content">
 	<div class="container">
-
+	<a name="cover" class="waypoint"></a>
 	<section id="cover">
 		<h1>Mobile <br>Marketing Summit</h1>
 		<h2>April 12, 2013</h2>
@@ -32,6 +33,8 @@
 	</section>
 	</div><!-- .container -->
 	<div class="container">
+
+	<a class="waypoint" name="section1"></a>
 	<section id="section1">
 		<h1>The 3 Options</h1>
 		<div class="inner">
@@ -62,6 +65,7 @@
 	</div><!-- .container -->
 	<div class="container">
 
+	<a class="waypoint" name="section2"></a>
 	<section id="section2">
 		<h1>Choosing the right option</h1>
 		<div class="inner">
@@ -98,7 +102,7 @@
 				</li>
 			</ul>
 			<h5>Answers to these questions govern design and development decisions along with content hierarchy.</h5>
-			<h2>Client Restrictions &amp; Needs</h2>
+			<h2 class="small">Client Restrictions &amp; Needs</h2>
 			<ul>
 				<li>
 					<h4>Expense</h4>
@@ -110,14 +114,15 @@
 					<p>While rapidly growing, still a relatively young discipline</p>
 				</li>
 			</ul>
-			<h2>PPC and SEO Recommendations</h2>
+			<h2 class="small">PPC and SEO Recommendations</h2>
 			<p>Our emphasis is on the <strong>user.</strong></p>
-			<object type="image/svg+xml" data="img/svg/ven.svg"></object>
+			<object type="image/svg+xml" data="img/svg/ven.svg" class="venn"></object>
 		</div><!--.inner -->
 	</section><!-- #section2 -->
 	</div><!-- .container -->
 	<div class="container">
 
+	<a class="waypoint" name="section3"></a>
 	<section id="section3">
 		<h1>Adept&rsquo;s 12-Step Responsive Process</h1>
 		<div class="inner">
@@ -133,11 +138,11 @@
 			</li>
 			<li>
 				<h4>Content Prototype</h4>
-				<a href="http://demo.marketingadept.com/adept/style-tiles/" target="_blank">Example</a>
+				<a href="http://building.seesparkbox.com/content-prototype/index.php" target="_blank">Example</a>
 			</li>
 			<li>
 				<h4>Visual Style Guide</h4>
-				<a href="http://building.seesparkbox.com/content-prototype/index.php" target="_blank">Example</a>
+				<a href="http://demo.marketingadept.com/adept/style-tiles/" target="_blank">Example</a>
 			</li>
 			<li>
 				<h4>Design Desktop Site</h4>
@@ -166,6 +171,7 @@
 	</div><!-- .container -->
 	<div class="container">
 
+	<a class="waypoint" name="section4"></a>
 	<section id="section4">
 		<h1>Mobile Advantages</h1>
 		<div class="inner">
@@ -182,6 +188,7 @@
 	</div><!-- .container -->
 	<div class="container">
 
+	<a class="waypoint" name="section5"></a>
 	<section id="section5">
 		<h1>The Future of Mobile</h1>
 		<div class="inner">
@@ -216,6 +223,12 @@
 	</section>
 
 	</div><!-- .container -->
+
+	
+	<h6 class="theend fittext">
+		Explosions & Fireworks
+	</h6>
+	</div><!-- .content -->
 
 	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js"></script>
 	<script>window.jQuery || document.write('<script src="js/vendor/jquery-1.9.0.min.js"><\/script>')</script>

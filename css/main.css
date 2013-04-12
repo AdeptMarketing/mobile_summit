@@ -789,6 +789,10 @@ section .inner {
   border-top: solid 15px transparent;
   border-bottom: solid 15px transparent;
 }
+#section1 h2.small,
+#section2 h2.small {
+  font-size: 13px;
+}
 #section1 h4,
 #section2 h4 {
   font-weight: 700;
@@ -948,6 +952,19 @@ section .inner {
   color: #555;
   margin-bottom: 10px;
 }
+ul li small {
+  display: block;
+  font-size: 13px;
+  font-size: 1.3rem;
+  line-height: 14px;
+  line-height: 1.4rem;
+  margin-top: 0px;
+  margin-top: 0rem;
+  margin-bottom: 0px;
+  margin-bottom: 0rem;
+  color: #999;
+  font-weight: 400;
+}
 /**
  * Section 2 Specific Styles
  */
@@ -987,6 +1004,10 @@ section .inner {
   border-radius: 3px;
   background-clip: padding-box;
 }
+#section4 h1,
+#section5 h1 {
+  margin-bottom: 10px;
+}
 #section4 h3,
 #section5 h3 {
   text-align: center;
@@ -1018,6 +1039,7 @@ section .inner {
   margin-bottom: 0px;
   margin-bottom: 0rem;
   display: block;
+  margin-bottom: 10px;
 }
 #section4 h1 i {
   text-transform: none;
@@ -1062,6 +1084,7 @@ section .inner {
   margin-bottom: 0px;
   margin-bottom: 0rem;
   display: block;
+  margin-bottom: 10px;
 }
 #section5 h1 i {
   text-transform: none;
@@ -1092,7 +1115,27 @@ section .inner {
 	padding-top:50px;*/
 
 }
+.theend {
+  display: none;
+}
 @media screen and (min-width: 600px) {
+  .theend {
+    display: block;
+    text-transform: uppercase;
+    font-weight: 800;
+    color: #ccc;
+    font-size: 150px;
+    font-size: 15rem;
+    line-height: 154px;
+    line-height: 15.399999999999999rem;
+    margin-top: 0px;
+    margin-top: 0rem;
+    margin-bottom: 0px;
+    margin-bottom: 0rem;
+    text-align: center;
+    padding-bottom: 50%;
+    margin: 0;
+  }
   .js #nav {
     position: relative;
     max-height: none;
@@ -1125,8 +1168,8 @@ section .inner {
     content: "";
   }
   #nav ul li a {
-    font-size: 13px;
-    font-size: 1.3rem;
+    font-size: 12px;
+    font-size: 1.2rem;
     line-height: 14px;
     line-height: 1.4rem;
     margin-top: 0px;
@@ -1138,6 +1181,21 @@ section .inner {
     color: #fff;
     padding: 0 8px;
     text-transform: uppercase;
+  }
+  #nav ul li.current a {
+    color: #f16e33;
+    position: relative;
+  }
+  #nav ul li.current a:after {
+    content: " ";
+    position: absolute;
+    width: 0;
+    height: 0;
+    border: solid 10px transparent;
+    border-bottom-color: #f9f9f9;
+    bottom: 0px;
+    left: 50%;
+    margin-left: -10px;
   }
   .logo {
     margin: 60px auto 0;
@@ -1153,9 +1211,24 @@ section .inner {
   /**
   	 * Section 2 Specific Styles
   	 */
+  #section2 .venn {
+    width: 70%;
+    margin: auto;
+    display: block;
+  }
   #section2 figure {
     width: 50%;
     float: left;
+  }
+  #section2 h2.small {
+    font-size: 20px;
+    font-size: 2rem;
+    line-height: 28px;
+    line-height: 2.8rem;
+    margin-top: 0px;
+    margin-top: 0rem;
+    margin-bottom: 0px;
+    margin-bottom: 0rem;
   }
   #section3 ol li a {
     position: absolute;
@@ -1206,19 +1279,5 @@ section .inner {
   #section4 li:nth-child(odd),
   #section5 li:nth-child(odd) {
     border-right: solid 1px #eee;
-  }
-  #section4 li small,
-  #section5 li small {
-    display: block;
-    font-size: 13px;
-    font-size: 1.3rem;
-    line-height: 14px;
-    line-height: 1.4rem;
-    margin-top: 0px;
-    margin-top: 0rem;
-    margin-bottom: 0px;
-    margin-bottom: 0rem;
-    color: #999;
-    font-weight: 400;
   }
 }
