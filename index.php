@@ -178,10 +178,11 @@
 			<h3>Enhancing The User experience</h3>
 			<ul>
 				<li>Gesturing</li>
-				<li>Geolocation</li>
+				<li><a id="show-location" href="#show-location">Geolocation</a></li>
 				<li>Animation</li>
 				<li>HTML5/CSS3</li>
 			</ul>
+			<section id="geolocation" class="hidden"></section>
 			<div class="clear"></div>
 		</div>
 	</section>
