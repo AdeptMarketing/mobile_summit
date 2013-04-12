@@ -94,8 +94,24 @@ section {
 	h2 {
 		.ribbon(@teal, #f9f9f9, #f9f9f9);
 	}
+	h4 {
+		.bold;
+		.font-size(2);
+	}
+	h5
+	{
+		.bold;
+		.font-size(1.4,1,2);
+		font-style: oblique;
+		text-align: center;
+		color: @dark-gray;
+	}
 	p {
 		padding:0 1rem;
+	}
+	li p
+	{
+		.font-size(1.2);
 	}
 }
 #section3 {
@@ -174,6 +190,12 @@ section {
 			color: @mid-gray;
 			.font-size(0.8);
 		}
+	}
+	object
+	{
+		display: block;
+		margin: 1.0rem auto 0;
+		max-width: 600px;
 	}
 }
 #section4,

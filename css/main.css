@@ -789,9 +789,47 @@ section .inner {
   border-top: solid 15px transparent;
   border-bottom: solid 15px transparent;
 }
+#section1 h4,
+#section2 h4 {
+  font-weight: 700;
+  font-size: 20px;
+  font-size: 2rem;
+  line-height: 28px;
+  line-height: 2.8rem;
+  margin-top: 0px;
+  margin-top: 0rem;
+  margin-bottom: 0px;
+  margin-bottom: 0rem;
+}
+#section1 h5,
+#section2 h5 {
+  font-weight: 700;
+  font-size: 14px;
+  font-size: 1.4rem;
+  line-height: 14px;
+  line-height: 1.4rem;
+  margin-top: 28px;
+  margin-top: 2.8rem;
+  margin-bottom: 14px;
+  margin-bottom: 1.4rem;
+  font-style: oblique;
+  text-align: center;
+  color: #333333;
+}
 #section1 p,
 #section2 p {
   padding: 0 1rem;
+}
+#section1 li p,
+#section2 li p {
+  font-size: 12px;
+  font-size: 1.2rem;
+  line-height: 14px;
+  line-height: 1.4rem;
+  margin-top: 0px;
+  margin-top: 0rem;
+  margin-bottom: 0px;
+  margin-bottom: 0rem;
 }
 #section3 {
   padding: 10px;
@@ -932,6 +970,11 @@ section .inner {
   margin-top: 0rem;
   margin-bottom: 0px;
   margin-bottom: 0rem;
+}
+#section2 object {
+  display: block;
+  margin: 1.0rem auto 0;
+  max-width: 600px;
 }
 #section4,
 #section5 {
