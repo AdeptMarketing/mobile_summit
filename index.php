@@ -9,7 +9,7 @@
 </head>
 <body>
 	<a name="cover"></a>
-	
+
 	<nav role="navigation" id="nav">
       	<ul>
 			<li class="current"><a href="#cover">Welcome</a></li>
@@ -38,7 +38,7 @@
 	<section id="section1">
 		<h1>The 3 Options</h1>
 		<div class="inner">
-			<h2>Mobile Aware:</h2> 
+			<h2>Mobile Aware:</h2>
 			<ul>
 				<li>Optimize images</li>
 				<li>Add / configure header meta tags</li>
@@ -46,14 +46,14 @@
 				<li>Ensure semantic, valid CSS &amp; HTML</li>
 			</ul>
 			<p>Example: <a href="http://autrylearning.com/" target="_blank">http://autrylearning.com/</a></p>
-			<h2>Mobile Separate:</h2> 
+			<h2>Mobile Separate:</h2>
 			<ul>
 				<li>A separate front-end site</li>
 				<li>Powered by the same database (when applicable) or backend</li>
 				<li>May exist on a separate sub-domain (e.g. mobile.columbusartsfestival.org)</li>
 			</ul>
 			<p>Example: <a href="http://murrayhillfamilydental.com/" target="_blank">http://murrayhillfamilydental.com/</a></p>
-			<h2>Responsive:</h2> 
+			<h2>Responsive:</h2>
 			<ul>
 				<li>Single, fluid site</li>
 				<li>Content / layout changes based on device size, resolution and capabilities</li>
@@ -69,35 +69,42 @@
 	<section id="section2">
 		<h1>Choosing the right option</h1>
 		<div class="inner">
-		<h2>User needs </h2>
-		<ul>
-			<li>What kind of content will the user need when using his or her phone (&#8220;Mobile First&#8221; approach)</li>
-			<li><a href="http://murrayhillfamilydental.com" title="Cosmetic Dentist Grove City OH | Lincoln Village | Galloway, Ohio">Murray Hill</a> vs.
-				<a href="http://dawesarb.org" title="Dawes Arboretum">Dawes Arboretum</a>
-				<br />
-				<img src="img/examples/murray-hill.png" alt="Murray Hill Screenshot" width="600" />
-				<img src="img/examples/dawes.png" alt="Dawes Screenshot" width="600" />
-				<div class="clearfix"></div>
-			</li>
-		</ul>
-		<h2>User Context</h2>
-		<ul>
-			<li>Where</li>
-			<li>When</li>
-			<li>How</li>
-		</ul>
-		<p>Answers to these questions govern design and development decisions along with content hierarchy.</p>
-		<h2>Client Restrictions & Needs</h2>
-		<ul>
-			<li>Expense</li>
-			<li>Time Constraints</li>
-		</ul>
-		</div>
+			<h2>User needs </h2>
+			<ul>
+				<li>What kind of content will the user need when using his or her phone (&#8220;Mobile First&#8221; approach)</li>
+				<li><a href="http://murrayhillfamilydental.com" title="Cosmetic Dentist Grove City OH | Lincoln Village | Galloway, Ohio">Murray Hill</a> vs.
+					<a href="http://dawesarb.org" title="Dawes Arboretum">Dawes Arboretum</a>
+					<br />
+					<figure>
+						<img src="img/examples/murray-hill.png" alt="Murray Hill Screenshot" width="600" />
+						<figcaption>Murray Hill Family Dental</figcaption>
+					</figure>
+					<figure>
+						<img src="img/examples/dawes.png" alt="Dawes Screenshot" width="600" />
+						<figcaption>Dawes Arboretum</figcaption>
+					</figure>
+					<div class="clearfix"></div>
+				</li>
+			</ul>
+			<h2>User Context</h2>
+			<ul>
+				<li>Where</li>
+				<li>When</li>
+				<li>How</li>
+			</ul>
+			<p>Answers to these questions govern design and development decisions along with content hierarchy.</p>
+			<h2>Client Restrictions &amp; Needs</h2>
+			<ul>
+				<li>Expense</li>
+				<li>Time Constraints</li>
+			</ul>
+			<h2>PPC and SEO Recommendations</h2>
+			<object type="image/svg+xml" data="img/svg/ven.svg"></object>
+		</div><!--.inner -->
 	</section><!-- #section2 -->
 	</div><!-- .container -->
 	<div class="container">
-	
-	<a class="waypoint" name="section3"></a>
+	<a name="section3"></a>
 	<section id="section3">
 		<h1>Adept&rsquo;s 12-Step Responsive Process</h1>
 		<div class="inner">
@@ -145,8 +152,7 @@
 	</section><!-- #section3 -->
 	</div><!-- .container -->
 	<div class="container">
-	
-	<a class="waypoint" name="section4"></a>
+	<a name="section4"></a>
 	<section id="section4">
 		<h1>Mobile Advantages</h1>
 		<div class="inner">
@@ -196,13 +202,15 @@
 		<div class="clear"></div>
 		</div>
 	</section>
-	
+
 	</div><!-- .container -->
+
 	
 	<h6 class="theend fittext">
 		Explosions & Fireworks
 	</h6>
 	</div><!-- .content -->
+
 	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js"></script>
 	<script>window.jQuery || document.write('<script src="js/vendor/jquery-1.9.0.min.js"><\/script>')</script>
 	<script src="js/plugins-ck.js" type="text/javascript" charset="utf-8"></script>
