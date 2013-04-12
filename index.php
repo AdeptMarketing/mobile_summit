@@ -46,6 +46,16 @@
 				<li>Ensure semantic, valid CSS &amp; HTML</li>
 			</ul>
 			<p>Example: <a href="http://autrylearning.com/" target="_blank">http://autrylearning.com/</a></p>
+				<br />
+				<figure class="desktop">
+					<img src="img/examples/autry-desktop.png" alt="Autry Learning Desktop View" width="600" />
+					<figcaption>Autry Learning Desktop View</figcaption>
+				</figure>
+				<figure class="mobile">
+					<img src="img/examples/autry-mobile.png" alt="Autry Learning Mobile View" width="450" />
+					<figcaption>Autry Learning Mobile View</figcaption>
+				</figure>
+				<div class="clearfix"></div>
 			<h2>Mobile Separate:</h2>
 			<ul>
 				<li>A separate front-end site</li>
@@ -53,6 +63,17 @@
 				<li>May exist on a separate sub-domain (e.g. mobile.columbusartsfestival.org)</li>
 			</ul>
 			<p>Example: <a href="http://murrayhillfamilydental.com/" target="_blank">http://murrayhillfamilydental.com/</a></p>
+				<br />
+				<figure class="desktop">
+					<img src="img/examples/murrayhill-desktop.png" alt="Murray Hill Desktop View" width="600" />
+					<figcaption>Murray Hill Desktop View</figcaption>
+				</figure>
+				<figure class="mobile">
+					<img src="img/examples/murrayhill-mobile.png" alt="Murray Hill Mobile View" width="450" />
+					<figcaption>Murray Hill Mobile View</figcaption>
+				</figure>
+				<div class="clearfix"></div>
+				
 			<h2>Responsive:</h2>
 			<ul>
 				<li>Single, fluid site</li>
@@ -60,6 +81,17 @@
 				<li>Powered by the same database, backend, front-end assets, and code</li>
 			</ul>
 			<p>Example: <a href="http://marketingadept.com/" target="_blank">http://marketingadept.com/</a></p>
+				<br />
+				<figure class="desktop">
+					<img src="img/examples/adept-desktop.png" alt="Adept Marketing Desktop View" width="600" />
+					<figcaption>Adept Marketing Desktop View</figcaption>
+				</figure>
+				<figure class="mobile">
+					<img src="img/examples/adept-mobile.png" alt="Adept Marketing Mobile View" width="450" />
+					<figcaption>Adept Marketing Mobile View</figcaption>
+				</figure>
+				<div class="clearfix"></div>
+				
 		</div>
 	</section><!-- #section1 -->
 	</div><!-- .container -->

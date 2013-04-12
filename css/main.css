@@ -968,14 +968,17 @@ ul li small {
 /**
  * Section 2 Specific Styles
  */
-#section2 figure {
+#section2 figure,
+#section1 figure {
   margin: 0 0 1.0rem 0;
   padding: 0;
 }
-#section2 figure img {
+#section2 figure img,
+#section1 figure img {
   max-width: 100%;
 }
-#section2 figure figcaption {
+#section2 figure figcaption,
+#section1 figure figcaption {
   text-align: center;
   font-style: oblique;
   color: #777777;
@@ -988,7 +991,8 @@ ul li small {
   margin-bottom: 0px;
   margin-bottom: 0rem;
 }
-#section2 object {
+#section2 object,
+#section1 object {
   display: block;
   margin: 1.0rem auto 0;
   max-width: 600px;
@@ -1217,16 +1221,19 @@ ul li small {
   /**
   	 * Section 2 Specific Styles
   	 */
-  #section2 .venn {
+  #section2 .venn,
+  #section1 .venn {
     width: 70%;
     margin: auto;
     display: block;
   }
-  #section2 figure {
+  #section2 figure,
+  #section1 figure {
     width: 50%;
     float: left;
   }
-  #section2 h2.small {
+  #section2 h2.small,
+  #section1 h2.small {
     font-size: 20px;
     font-size: 2rem;
     line-height: 28px;
@@ -1237,7 +1244,9 @@ ul li small {
     margin-bottom: 0rem;
   }
   #section2 .cols3 li,
-  #section2 .cols2 li {
+  #section1 .cols3 li,
+  #section2 .cols2 li,
+  #section1 .cols2 li {
     text-align: center;
     float: left;
     width: 33.3333%;
@@ -1252,7 +1261,9 @@ ul li small {
     margin: 10px 0;
   }
   #section2 .cols3 li small,
-  #section2 .cols2 li small {
+  #section1 .cols3 li small,
+  #section2 .cols2 li small,
+  #section1 .cols2 li small {
     text-transform: none;
     font-size: 14.5px !important;
     font-size: 1.45rem !important;
@@ -1264,15 +1275,25 @@ ul li small {
     margin-bottom: 0rem !important;
   }
   #section2 .cols3 li:first-child,
-  #section2 .cols2 li:first-child {
+  #section1 .cols3 li:first-child,
+  #section2 .cols2 li:first-child,
+  #section1 .cols2 li:first-child {
     border: none;
   }
-  #section2 .cols2 li {
+  #section2 .cols2 li,
+  #section1 .cols2 li {
     width: 50%;
   }
-  #section2 .cols2 li:nth-child(3) {
+  #section2 .cols2 li:nth-child(3),
+  #section1 .cols2 li:nth-child(3) {
     border: none;
     clear: both;
+  }
+  #section1 figure.desktop {
+    width: 70%;
+  }
+  #section1 figure.mobile {
+    width: 30%;
   }
   #section3 ol li a {
     position: absolute;
