@@ -87,35 +87,40 @@
 				</li>
 			</ul>
 			<h2>User Context</h2>
-			<ul>
+
+			<ul class="cols3">
 				<li>
-					<h4>Where</h4>
-					<p>Already at an event? Some other geographic location trying to get to a particular place?</p>
+					Where
+					<small>Already at an event? Some other geographic location trying to get to a particular place?</small>
 				</li>
 				<li>
-					<h4>When</h4>
-					<p>Before or After Scheduling an appointment? Before/After buying a particular product or service?</p>
+					When
+					<small>Before or After Scheduling an appointment? Before/After buying a particular product or service?</small>
 				</li>
 				<li>
-					<h4>How</h4>
-					<p>Driving? Leisurely sitting on a couch? Walking? Interfacing or interacting with others?</p>
+					How
+					<small>Driving? Leisurely sitting on a couch? Walking? Interfacing or interacting with others?</small>
 				</li>
 			</ul>
-			<h5>Answers to these questions govern design and development decisions along with content hierarchy.</h5>
+			<div class="clear"></div>
+			<h5 class="center">Answers to these questions govern design and development decisions along with content hierarchy.</h5>
 			<h2 class="small">Client Restrictions &amp; Needs</h2>
-			<ul>
+			<ul class="cols2">
 				<li>
-					<h4>Expense</h4>
-					<p>Will the client get a return on the investment? Can the client afford it?</p>
+					Expense
+					<small>Will the client get a return on the investment? Can the client afford it?</small>
 				</li>
-				<li><h4>Time Constraints</h4></li>
 				<li>
-					<h4>Educating Clients and Educating Ourselves</h4>
-					<p>While rapidly growing, still a relatively young discipline</p>
+					Educating Clients & Ourselves
+					<small>While rapidly growing, still a relatively young discipline</small>
+				</li>
+				<li class="clear">
+					Time Constraints
 				</li>
 			</ul>
+			<div class="clear"></div>
 			<h2 class="small">PPC and SEO Recommendations</h2>
-			<p>Our emphasis is on the <strong>user.</strong></p>
+			<h3 class="center">Our emphasis is on the <strong>user.</strong></h3>
 			<object type="image/svg+xml" data="img/svg/ven.svg" class="venn"></object>
 		</div><!--.inner -->
 	</section><!-- #section2 -->
