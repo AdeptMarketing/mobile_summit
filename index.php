@@ -9,7 +9,7 @@
 </head>
 <body>
 	<a name="cover"></a>
-	
+
 	<nav role="navigation" id="nav">
       	<ul>
 			<li><a href="#cover">Welcome</a></li>
@@ -22,7 +22,7 @@
 	</nav>
 	<img src="img/logo.png" alt="Adept Marketing" class="logo">
 	<div class="container">
-	
+
 	<section id="cover">
 		<h1>Mobile <br>Marketing Summit</h1>
 		<h2>April 12, 2013</h2>
@@ -37,7 +37,7 @@
 	<section id="section1">
 		<h1>The 3 Options</h1>
 		<div class="inner">
-			<h2>Mobile Aware:</h2> 
+			<h2>Mobile Aware:</h2>
 			<ul>
 				<li>Optimize images</li>
 				<li>Add / configure header meta tags</li>
@@ -45,14 +45,14 @@
 				<li>Ensure semantic, valid CSS &amp; HTML</li>
 			</ul>
 			<p>Example: <a href="http://autrylearning.com/" target="_blank">http://autrylearning.com/</a></p>
-			<h2>Mobile Separate:</h2> 
+			<h2>Mobile Separate:</h2>
 			<ul>
 				<li>A separate front-end site</li>
 				<li>Powered by the same database (when applicable) or backend</li>
 				<li>May exist on a separate sub-domain (e.g. mobile.columbusartsfestival.org)</li>
 			</ul>
 			<p>Example: <a href="http://murrayhillfamilydental.com/" target="_blank">http://murrayhillfamilydental.com/</a></p>
-			<h2>Responsive:</h2> 
+			<h2>Responsive:</h2>
 			<ul>
 				<li>Single, fluid site</li>
 				<li>Content / layout changes based on device size, resolution and capabilities</li>
@@ -95,7 +95,7 @@
 	</section><!-- #section2 -->
 	</div><!-- .container -->
 	<div class="container">
-	
+
 	<a name="section3"></a>
 	<section id="section3">
 		<h1>Adept&rsquo;s 12-Step Responsive Process</h1>
@@ -144,7 +144,7 @@
 	</section><!-- #section3 -->
 	</div><!-- .container -->
 	<div class="container">
-	
+
 	<a name="section4"></a>
 	<section id="section4">
 		<h1>Mobile Advantages</h1>
@@ -195,9 +195,9 @@
 		<div class="clear"></div>
 		</div>
 	</section>
-	
+
 	</div><!-- .container -->
-	
+
 	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js"></script>
 	<script>window.jQuery || document.write('<script src="js/vendor/jquery-1.9.0.min.js"><\/script>')</script>
 	<script src="js/plugins-ck.js" type="text/javascript" charset="utf-8"></script>
