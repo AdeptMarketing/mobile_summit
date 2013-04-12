@@ -3,12 +3,11 @@
 	<meta http-equiv="Content-type" content="text/html; charset=utf-8">
 	<title>Adept Marketing | Mobile Marketing Summit | April 12, 2013</title>
 	<meta name="viewport" content="width=device-width">
-	<link rel="stylesheet" href="css/main.css" type="text/css" media="screen" title="no title" charset="utf-8">
+	<link rel="stylesheet" href="css/main.css" type="text/css" media="screen">
 	<script type="text/javascript" src="//use.typekit.net/exd4onx.js"></script>
 	<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
 </head>
 <body>
-	<a name="cover"></a>
 
 	<nav role="navigation" id="nav">
       	<ul>
@@ -34,6 +33,7 @@
 	</section>
 	</div><!-- .container -->
 	<div class="container">
+
 	<a class="waypoint" name="section1"></a>
 	<section id="section1">
 		<h1>The 3 Options</h1>
@@ -87,27 +87,47 @@
 				</li>
 			</ul>
 			<h2>User Context</h2>
+
 			<ul class="cols3">
-				<li>Where</li>
-				<li>When</li>
-				<li>How</li>
+				<li>
+					Where
+					<small>Already at an event? Some other geographic location trying to get to a particular place?</small>
+				</li>
+				<li>
+					When
+					<small>Before or After Scheduling an appointment? Before/After buying a particular product or service?</small>
+				</li>
+				<li>
+					How
+					<small>Driving? Leisurely sitting on a couch? Walking? Interfacing or interacting with others?</small>
+				</li>
 			</ul>
 			<div class="clear"></div>
-			<p align="center">Answers to these questions govern design and development decisions along with content hierarchy.</p>
-			
+			<h5 class="center">Answers to these questions govern design and development decisions along with content hierarchy.</h5>
 			<h2 class="small">Client Restrictions &amp; Needs</h2>
 			<ul class="cols2">
-				<li>Expense</li>
-				<li>Time Constraints</li>
+				<li>
+					Expense
+					<small>Will the client get a return on the investment? Can the client afford it?</small>
+				</li>
+				<li>
+					Educating Clients & Ourselves
+					<small>While rapidly growing, still a relatively young discipline</small>
+				</li>
+				<li class="clear">
+					Time Constraints
+				</li>
 			</ul>
 			<div class="clear"></div>
 			<h2 class="small">PPC and SEO Recommendations</h2>
+			<h3 class="center">Our emphasis is on the <strong>user.</strong></h3>
 			<object type="image/svg+xml" data="img/svg/ven.svg" class="venn"></object>
 		</div><!--.inner -->
 	</section><!-- #section2 -->
 	</div><!-- .container -->
 	<div class="container">
-	<a name="section3"></a>
+
+	<a class="waypoint" name="section3"></a>
 	<section id="section3">
 		<h1>Adept&rsquo;s 12-Step Responsive Process</h1>
 		<div class="inner">
@@ -155,7 +175,8 @@
 	</section><!-- #section3 -->
 	</div><!-- .container -->
 	<div class="container">
-	<a name="section4"></a>
+
+	<a class="waypoint" name="section4"></a>
 	<section id="section4">
 		<h1>Mobile Advantages</h1>
 		<div class="inner">

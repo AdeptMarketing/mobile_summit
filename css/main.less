@@ -97,8 +97,24 @@ section {
 			font-size:13px;
 		}
 	}
+	h4 {
+		.bold;
+		.font-size(2);
+	}
+	h5
+	{
+		.bold;
+		.font-size(1.4,1,2);
+		font-style: oblique;
+		text-align: center;
+		color: @dark-gray;
+	}
 	p {
 		padding:0 1rem;
+	}
+	li p
+	{
+		.font-size(1.2);
 	}
 }
 #section3 {
@@ -184,6 +200,12 @@ ul li small {
 			color: @mid-gray;
 			.font-size(0.8);
 		}
+	}
+	object
+	{
+		display: block;
+		margin: 1.0rem auto 0;
+		max-width: 600px;
 	}
 }
 #section4,
@@ -343,6 +365,10 @@ ul li small {
 				.heavy;
 				padding:10px;
 				margin:10px 0;
+				small {
+					text-transform: none;
+					.font-size(1.45) !important;
+				}
 				&:first-child {
 					border:none;
 				}
@@ -350,6 +376,10 @@ ul li small {
 		}
 		.cols2 li {
 			width:50%;
+			&:nth-child(3){
+				border:none;
+				clear:both;
+			}
 		}
 	}
 	#section3 {

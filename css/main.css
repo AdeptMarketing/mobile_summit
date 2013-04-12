@@ -910,11 +910,52 @@ section .inner {
   font-size: 13px;
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jmoney\/Sites\/adept\/mobile-summit\/html\/css\/main\.less}line{font-family:\00003100}}
+#section1 h4,
+#section2 h4 {
+  font-weight: 700;
+  font-size: 20px;
+  font-size: 2rem;
+  line-height: 28px;
+  line-height: 2.8rem;
+  margin-top: 0px;
+  margin-top: 0rem;
+  margin-bottom: 0px;
+  margin-bottom: 0rem;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jmoney\/Sites\/adept\/mobile-summit\/html\/css\/main\.less}line{font-family:\00003104}}
+#section1 h5,
+#section2 h5 {
+  font-weight: 700;
+  font-size: 14px;
+  font-size: 1.4rem;
+  line-height: 14px;
+  line-height: 1.4rem;
+  margin-top: 28px;
+  margin-top: 2.8rem;
+  margin-bottom: 14px;
+  margin-bottom: 1.4rem;
+  font-style: oblique;
+  text-align: center;
+  color: #333333;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jmoney\/Sites\/adept\/mobile-summit\/html\/css\/main\.less}line{font-family:\00003112}}
 #section1 p,
 #section2 p {
   padding: 0 1rem;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jmoney\/Sites\/adept\/mobile-summit\/html\/css\/main\.less}line{font-family:\00003104}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jmoney\/Sites\/adept\/mobile-summit\/html\/css\/main\.less}line{font-family:\00003115}}
+#section1 li p,
+#section2 li p {
+  font-size: 12px;
+  font-size: 1.2rem;
+  line-height: 14px;
+  line-height: 1.4rem;
+  margin-top: 0px;
+  margin-top: 0rem;
+  margin-bottom: 0px;
+  margin-bottom: 0rem;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jmoney\/Sites\/adept\/mobile-summit\/html\/css\/main\.less}line{font-family:\00003120}}
 #section3 {
   padding: 10px;
   background-color: #c1d72e;
@@ -925,7 +966,7 @@ section .inner {
   border-radius: 3px;
   background-clip: padding-box;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jmoney\/Sites\/adept\/mobile-summit\/html\/css\/main\.less}line{font-family:\00003108}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jmoney\/Sites\/adept\/mobile-summit\/html\/css\/main\.less}line{font-family:\00003124}}
 #section3 h1 {
   color: #ffffff;
   line-height: 1;
@@ -970,16 +1011,16 @@ section .inner {
   margin-bottom: 0rem;
   display: block;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jmoney\/Sites\/adept\/mobile-summit\/html\/css\/main\.less}line{font-family:\00003112}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jmoney\/Sites\/adept\/mobile-summit\/html\/css\/main\.less}line{font-family:\00003128}}
 #section3 .inner {
   padding: 0;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jmoney\/Sites\/adept\/mobile-summit\/html\/css\/main\.less}line{font-family:\00003115}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jmoney\/Sites\/adept\/mobile-summit\/html\/css\/main\.less}line{font-family:\00003131}}
 #section3 ol {
   counter-reset: li;
   margin: 0;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jmoney\/Sites\/adept\/mobile-summit\/html\/css\/main\.less}line{font-family:\00003118}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jmoney\/Sites\/adept\/mobile-summit\/html\/css\/main\.less}line{font-family:\00003134}}
 #section3 ol li {
   -webkit-border-radius: 3px;
   -webkit-background-clip: padding-box;
@@ -993,7 +1034,7 @@ section .inner {
   border-top: dashed 2px #9eb022;
   margin: 0;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jmoney\/Sites\/adept\/mobile-summit\/html\/css\/main\.less}line{font-family:\00003125}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jmoney\/Sites\/adept\/mobile-summit\/html\/css\/main\.less}line{font-family:\00003141}}
 #section3 ol li:before {
   content: counter(li);
   counter-increment: li;
@@ -1016,15 +1057,15 @@ section .inner {
   font-weight: 800;
   font-size: 25px;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jmoney\/Sites\/adept\/mobile-summit\/html\/css\/main\.less}line{font-family:\00003135}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jmoney\/Sites\/adept\/mobile-summit\/html\/css\/main\.less}line{font-family:\00003151}}
 #section3 ol li:before a {
   color: #45c3d3;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jmoney\/Sites\/adept\/mobile-summit\/html\/css\/main\.less}line{font-family:\00003139}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jmoney\/Sites\/adept\/mobile-summit\/html\/css\/main\.less}line{font-family:\00003155}}
 #section3 ol li:first-child {
   border: none;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jmoney\/Sites\/adept\/mobile-summit\/html\/css\/main\.less}line{font-family:\00003143}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jmoney\/Sites\/adept\/mobile-summit\/html\/css\/main\.less}line{font-family:\00003159}}
 #section3 ol h4 {
   font-weight: 700;
   font-size: 20px;
@@ -1036,14 +1077,14 @@ section .inner {
   margin-bottom: 0px;
   margin-bottom: 0rem;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jmoney\/Sites\/adept\/mobile-summit\/html\/css\/main\.less}line{font-family:\00003147}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jmoney\/Sites\/adept\/mobile-summit\/html\/css\/main\.less}line{font-family:\00003163}}
 #section3 ol p {
   margin: 0;
   font-size: .9em;
   color: #555;
   margin-bottom: 10px;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jmoney\/Sites\/adept\/mobile-summit\/html\/css\/main\.less}line{font-family:\00003159}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jmoney\/Sites\/adept\/mobile-summit\/html\/css\/main\.less}line{font-family:\00003175}}
 ul li small {
   display: block;
   font-size: 13px;
@@ -1060,16 +1101,16 @@ ul li small {
 /**
  * Section 2 Specific Styles
  */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jmoney\/Sites\/adept\/mobile-summit\/html\/css\/main\.less}line{font-family:\00003173}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jmoney\/Sites\/adept\/mobile-summit\/html\/css\/main\.less}line{font-family:\00003189}}
 #section2 figure {
   margin: 0 0 1.0rem 0;
   padding: 0;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jmoney\/Sites\/adept\/mobile-summit\/html\/css\/main\.less}line{font-family:\00003176}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jmoney\/Sites\/adept\/mobile-summit\/html\/css\/main\.less}line{font-family:\00003192}}
 #section2 figure img {
   max-width: 100%;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jmoney\/Sites\/adept\/mobile-summit\/html\/css\/main\.less}line{font-family:\00003180}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jmoney\/Sites\/adept\/mobile-summit\/html\/css\/main\.less}line{font-family:\00003196}}
 #section2 figure figcaption {
   text-align: center;
   font-style: oblique;
@@ -1083,7 +1124,13 @@ ul li small {
   margin-bottom: 0px;
   margin-bottom: 0rem;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jmoney\/Sites\/adept\/mobile-summit\/html\/css\/main\.less}line{font-family:\00003189}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jmoney\/Sites\/adept\/mobile-summit\/html\/css\/main\.less}line{font-family:\00003204}}
+#section2 object {
+  display: block;
+  margin: 1.0rem auto 0;
+  max-width: 600px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jmoney\/Sites\/adept\/mobile-summit\/html\/css\/main\.less}line{font-family:\00003211}}
 #section4,
 #section5 {
   background-color: #fce550;
@@ -1095,12 +1142,12 @@ ul li small {
   border-radius: 3px;
   background-clip: padding-box;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jmoney\/Sites\/adept\/mobile-summit\/html\/css\/main\.less}line{font-family:\00003194}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jmoney\/Sites\/adept\/mobile-summit\/html\/css\/main\.less}line{font-family:\00003216}}
 #section4 h1,
 #section5 h1 {
   margin-bottom: 10px;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jmoney\/Sites\/adept\/mobile-summit\/html\/css\/main\.less}line{font-family:\00003197}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jmoney\/Sites\/adept\/mobile-summit\/html\/css\/main\.less}line{font-family:\00003219}}
 #section4 h3,
 #section5 h3 {
   text-align: center;
@@ -1116,7 +1163,7 @@ ul li small {
   font-weight: 700;
   text-transform: uppercase;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jmoney\/Sites\/adept\/mobile-summit\/html\/css\/main\.less}line{font-family:\00003205}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jmoney\/Sites\/adept\/mobile-summit\/html\/css\/main\.less}line{font-family:\00003227}}
 #section4 h1 {
   color: #333333;
   line-height: 1;
@@ -1161,11 +1208,11 @@ ul li small {
   margin-bottom: 0rem;
   display: block;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jmoney\/Sites\/adept\/mobile-summit\/html\/css\/main\.less}line{font-family:\00003209}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jmoney\/Sites\/adept\/mobile-summit\/html\/css\/main\.less}line{font-family:\00003231}}
 #section5 {
   background-color: #333333;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jmoney\/Sites\/adept\/mobile-summit\/html\/css\/main\.less}line{font-family:\00003211}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jmoney\/Sites\/adept\/mobile-summit\/html\/css\/main\.less}line{font-family:\00003233}}
 #section5 h1 {
   color: #ffffff;
   line-height: 1;
@@ -1210,18 +1257,18 @@ ul li small {
   margin-bottom: 0rem;
   display: block;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jmoney\/Sites\/adept\/mobile-summit\/html\/css\/main\.less}line{font-family:\00003217}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jmoney\/Sites\/adept\/mobile-summit\/html\/css\/main\.less}line{font-family:\00003239}}
 #section2 {
   /*	background:url(../img/choices.png) no-repeat center 10px @orange;
 	padding-top:50px;*/
 
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jmoney\/Sites\/adept\/mobile-summit\/html\/css\/main\.less}line{font-family:\00003221}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jmoney\/Sites\/adept\/mobile-summit\/html\/css\/main\.less}line{font-family:\00003243}}
 .theend {
   display: none;
 }
 @media screen and (min-width: 600px) {
-  @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jmoney\/Sites\/adept\/mobile-summit\/html\/css\/main\.less}line{font-family:\00003225}}
+  @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jmoney\/Sites\/adept\/mobile-summit\/html\/css\/main\.less}line{font-family:\00003247}}
   .theend {
     display: block;
     text-transform: uppercase;
@@ -1239,24 +1286,24 @@ ul li small {
     padding-bottom: 50%;
     margin: 0;
   }
-  @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jmoney\/Sites\/adept\/mobile-summit\/html\/css\/main\.less}line{font-family:\00003236}}
+  @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jmoney\/Sites\/adept\/mobile-summit\/html\/css\/main\.less}line{font-family:\00003258}}
   section h2 {
     margin-top: 30px !important;
   }
-  @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jmoney\/Sites\/adept\/mobile-summit\/html\/css\/main\.less}line{font-family:\00003238}}
+  @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jmoney\/Sites\/adept\/mobile-summit\/html\/css\/main\.less}line{font-family:\00003260}}
   section h2:first-of-type {
     margin-top: 0 !important;
   }
-  @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jmoney\/Sites\/adept\/mobile-summit\/html\/css\/main\.less}line{font-family:\00003243}}
+  @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jmoney\/Sites\/adept\/mobile-summit\/html\/css\/main\.less}line{font-family:\00003265}}
   .js #nav {
     position: relative;
     max-height: none;
   }
-  @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jmoney\/Sites\/adept\/mobile-summit\/html\/css\/main\.less}line{font-family:\00003247}}
+  @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jmoney\/Sites\/adept\/mobile-summit\/html\/css\/main\.less}line{font-family:\00003269}}
   #nav-toggle {
     display: none;
   }
-  @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jmoney\/Sites\/adept\/mobile-summit\/html\/css\/main\.less}line{font-family:\00003250}}
+  @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jmoney\/Sites\/adept\/mobile-summit\/html\/css\/main\.less}line{font-family:\00003272}}
   #nav {
     position: fixed !important;
     top: 0;
@@ -1267,7 +1314,7 @@ ul li small {
     background: #333333;
     z-index: 99999999;
   }
-  @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jmoney\/Sites\/adept\/mobile-summit\/html\/css\/main\.less}line{font-family:\00003260}}
+  @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jmoney\/Sites\/adept\/mobile-summit\/html\/css\/main\.less}line{font-family:\00003282}}
   #nav ul li {
     display: inline;
     list-style: none;
@@ -1275,16 +1322,16 @@ ul li small {
     padding: 0;
     border: none;
   }
-  @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jmoney\/Sites\/adept\/mobile-summit\/html\/css\/main\.less}line{font-family:\00003266}}
+  @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jmoney\/Sites\/adept\/mobile-summit\/html\/css\/main\.less}line{font-family:\00003288}}
   #nav ul li:before {
     content: " | ";
     color: #555;
   }
-  @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jmoney\/Sites\/adept\/mobile-summit\/html\/css\/main\.less}line{font-family:\00003270}}
+  @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jmoney\/Sites\/adept\/mobile-summit\/html\/css\/main\.less}line{font-family:\00003292}}
   #nav ul li:first-child:before {
     content: "";
   }
-  @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jmoney\/Sites\/adept\/mobile-summit\/html\/css\/main\.less}line{font-family:\00003273}}
+  @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jmoney\/Sites\/adept\/mobile-summit\/html\/css\/main\.less}line{font-family:\00003295}}
   #nav ul li a {
     font-size: 12px;
     font-size: 1.2rem;
@@ -1300,12 +1347,12 @@ ul li small {
     padding: 0 8px;
     text-transform: uppercase;
   }
-  @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jmoney\/Sites\/adept\/mobile-summit\/html\/css\/main\.less}line{font-family:\00003282}}
+  @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jmoney\/Sites\/adept\/mobile-summit\/html\/css\/main\.less}line{font-family:\00003304}}
   #nav ul li.current a {
     color: #f16e33;
     position: relative;
   }
-  @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jmoney\/Sites\/adept\/mobile-summit\/html\/css\/main\.less}line{font-family:\00003285}}
+  @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jmoney\/Sites\/adept\/mobile-summit\/html\/css\/main\.less}line{font-family:\00003307}}
   #nav ul li.current a:after {
     content: " ";
     position: absolute;
@@ -1317,14 +1364,14 @@ ul li small {
     left: 50%;
     margin-left: -10px;
   }
-  @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jmoney\/Sites\/adept\/mobile-summit\/html\/css\/main\.less}line{font-family:\00003302}}
+  @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jmoney\/Sites\/adept\/mobile-summit\/html\/css\/main\.less}line{font-family:\00003324}}
   .logo {
     margin: 60px auto 0;
     float: none;
     display: block;
     height: 100px;
   }
-  @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jmoney\/Sites\/adept\/mobile-summit\/html\/css\/main\.less}line{font-family:\00003308}}
+  @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jmoney\/Sites\/adept\/mobile-summit\/html\/css\/main\.less}line{font-family:\00003330}}
   .container {
     padding-top: 0;
     min-height: 100%;
@@ -1333,18 +1380,18 @@ ul li small {
   /**
   	 * Section 2 Specific Styles
   	 */
-  @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jmoney\/Sites\/adept\/mobile-summit\/html\/css\/main\.less}line{font-family:\00003319}}
+  @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jmoney\/Sites\/adept\/mobile-summit\/html\/css\/main\.less}line{font-family:\00003341}}
   #section2 .venn {
     width: 70%;
     margin: auto;
     display: block;
   }
-  @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jmoney\/Sites\/adept\/mobile-summit\/html\/css\/main\.less}line{font-family:\00003324}}
+  @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jmoney\/Sites\/adept\/mobile-summit\/html\/css\/main\.less}line{font-family:\00003346}}
   #section2 figure {
     width: 50%;
     float: left;
   }
-  @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jmoney\/Sites\/adept\/mobile-summit\/html\/css\/main\.less}line{font-family:\00003330}}
+  @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jmoney\/Sites\/adept\/mobile-summit\/html\/css\/main\.less}line{font-family:\00003352}}
   #section2 h2.small {
     font-size: 20px;
     font-size: 2rem;
@@ -1355,7 +1402,7 @@ ul li small {
     margin-bottom: 0px;
     margin-bottom: 0rem;
   }
-  @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jmoney\/Sites\/adept\/mobile-summit\/html\/css\/main\.less}line{font-family:\00003335}}
+  @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jmoney\/Sites\/adept\/mobile-summit\/html\/css\/main\.less}line{font-family:\00003357}}
   #section2 .cols3 li,
   #section2 .cols2 li {
     text-align: center;
@@ -1371,16 +1418,34 @@ ul li small {
     padding: 10px;
     margin: 10px 0;
   }
-  @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jmoney\/Sites\/adept\/mobile-summit\/html\/css\/main\.less}line{font-family:\00003346}}
+  @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jmoney\/Sites\/adept\/mobile-summit\/html\/css\/main\.less}line{font-family:\00003368}}
+  #section2 .cols3 li small,
+  #section2 .cols2 li small {
+    text-transform: none;
+    font-size: 14.5px !important;
+    font-size: 1.45rem !important;
+    line-height: 28px !important;
+    line-height: 2.8rem !important;
+    margin-top: 0px !important;
+    margin-top: 0rem !important;
+    margin-bottom: 0px !important;
+    margin-bottom: 0rem !important;
+  }
+  @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jmoney\/Sites\/adept\/mobile-summit\/html\/css\/main\.less}line{font-family:\00003372}}
   #section2 .cols3 li:first-child,
   #section2 .cols2 li:first-child {
     border: none;
   }
-  @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jmoney\/Sites\/adept\/mobile-summit\/html\/css\/main\.less}line{font-family:\00003351}}
+  @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jmoney\/Sites\/adept\/mobile-summit\/html\/css\/main\.less}line{font-family:\00003377}}
   #section2 .cols2 li {
     width: 50%;
   }
-  @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jmoney\/Sites\/adept\/mobile-summit\/html\/css\/main\.less}line{font-family:\00003356}}
+  @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jmoney\/Sites\/adept\/mobile-summit\/html\/css\/main\.less}line{font-family:\00003379}}
+  #section2 .cols2 li:nth-child(3) {
+    border: none;
+    clear: both;
+  }
+  @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jmoney\/Sites\/adept\/mobile-summit\/html\/css\/main\.less}line{font-family:\00003386}}
   #section3 ol li a {
     position: absolute;
     right: 20px;
@@ -1397,17 +1462,17 @@ ul li small {
     margin-top: -20px;
     color: #999;
   }
-  @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jmoney\/Sites\/adept\/mobile-summit\/html\/css\/main\.less}line{font-family:\00003366}}
+  @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jmoney\/Sites\/adept\/mobile-summit\/html\/css\/main\.less}line{font-family:\00003396}}
   #section3 ol li a:hover {
     background: #ddd;
   }
-  @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jmoney\/Sites\/adept\/mobile-summit\/html\/css\/main\.less}line{font-family:\00003373}}
+  @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jmoney\/Sites\/adept\/mobile-summit\/html\/css\/main\.less}line{font-family:\00003403}}
   #section4 ul,
   #section5 ul {
     padding: 0;
     margin: 0;
   }
-  @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jmoney\/Sites\/adept\/mobile-summit\/html\/css\/main\.less}line{font-family:\00003377}}
+  @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jmoney\/Sites\/adept\/mobile-summit\/html\/css\/main\.less}line{font-family:\00003407}}
   #section4 li,
   #section5 li {
     list-style: none;
@@ -1424,14 +1489,14 @@ ul li small {
     text-transform: uppercase;
     border-top: solid 1px #eee;
   }
-  @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jmoney\/Sites\/adept\/mobile-summit\/html\/css\/main\.less}line{font-family:\00003389}}
+  @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jmoney\/Sites\/adept\/mobile-summit\/html\/css\/main\.less}line{font-family:\00003419}}
   #section4 li:nth-child(1),
   #section5 li:nth-child(1),
   #section4 li:nth-child(2),
   #section5 li:nth-child(2) {
     border-top: none;
   }
-  @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jmoney\/Sites\/adept\/mobile-summit\/html\/css\/main\.less}line{font-family:\00003393}}
+  @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/jmoney\/Sites\/adept\/mobile-summit\/html\/css\/main\.less}line{font-family:\00003423}}
   #section4 li:nth-child(odd),
   #section5 li:nth-child(odd) {
     border-right: solid 1px #eee;
