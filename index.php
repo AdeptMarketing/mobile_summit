@@ -68,30 +68,38 @@
 	<section id="section2">
 		<h1>Choosing the right option</h1>
 		<div class="inner">
-		<h2>User needs </h2>
-		<ul>
-			<li>What kind of content will the user need when using his or her phone (&#8220;Mobile First&#8221; approach)</li>
-			<li><a href="http://murrayhillfamilydental.com" title="Cosmetic Dentist Grove City OH | Lincoln Village | Galloway, Ohio">Murray Hill</a> vs.
-				<a href="http://dawesarb.org" title="Dawes Arboretum">Dawes Arboretum</a>
-				<br />
-				<img src="img/examples/murray-hill.png" alt="Murray Hill Screenshot" width="600" />
-				<img src="img/examples/dawes.png" alt="Dawes Screenshot" width="600" />
-				<div class="clearfix"></div>
-			</li>
-		</ul>
-		<h2>User Context</h2>
-		<ul>
-			<li>Where</li>
-			<li>When</li>
-			<li>How</li>
-		</ul>
-		<p>Answers to these questions govern design and development decisions along with content hierarchy.</p>
-		<h2>Client Restrictions & Needs</h2>
-		<ul>
-			<li>Expense</li>
-			<li>Time Constraints</li>
-		</ul>
-		</div>
+			<h2>User needs </h2>
+			<ul>
+				<li>What kind of content will the user need when using his or her phone (&#8220;Mobile First&#8221; approach)</li>
+				<li><a href="http://murrayhillfamilydental.com" title="Cosmetic Dentist Grove City OH | Lincoln Village | Galloway, Ohio">Murray Hill</a> vs.
+					<a href="http://dawesarb.org" title="Dawes Arboretum">Dawes Arboretum</a>
+					<br />
+					<figure>
+						<img src="img/examples/murray-hill.png" alt="Murray Hill Screenshot" width="600" />
+						<figcaption>Murray Hill Family Dental</figcaption>
+					</figure>
+					<figure>
+						<img src="img/examples/dawes.png" alt="Dawes Screenshot" width="600" />
+						<figcaption>Dawes Arboretum</figcaption>
+					</figure>
+					<div class="clearfix"></div>
+				</li>
+			</ul>
+			<h2>User Context</h2>
+			<ul>
+				<li>Where</li>
+				<li>When</li>
+				<li>How</li>
+			</ul>
+			<p>Answers to these questions govern design and development decisions along with content hierarchy.</p>
+			<h2>Client Restrictions &amp; Needs</h2>
+			<ul>
+				<li>Expense</li>
+				<li>Time Constraints</li>
+			</ul>
+			<h2>PPC and SEO Recommendations</h2>
+			<object type="image/svg+xml" data="img/svg/ven.svg"></object>
+		</div><!--.inner -->
 	</section><!-- #section2 -->
 	</div><!-- .container -->
 	<div class="container">

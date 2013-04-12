@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" version="1.1" preserveAspectRatio="xMin YMin meet" viewBox="0 0 450 450">
+ <!-- Create a little freakin' SVG action...-->
+ <g>
+  <title>Adept Ven</title>
+  <circle fill="#c1d72e" stroke="#bbce2f" cx="322" cy="150" r="122.33152" id="svg_3" opacity="0.75"/>
+  <circle fill="#45c3d3" stroke="#3da9b5" cx="131" cy="149" r="122.33152" id="svg_1" opacity="0.75"/>
+  <circle fill="#fce550" stroke="#ead34d" cx="235.99999" cy="283" r="122.33152" id="svg_4" opacity="0.75"/>
+  <text stroke="#3da9b5" xml:space="preserve" text-anchor="middle" font-family="Helvetica Neue" font-size="24" id="svg_5" y="149" x="148" opacity="0.75" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="#333"/>
+  <text xml:space="preserve" text-anchor="middle" font-family="Helvetica Neue" font-size="36" id="svg_6" y="295" x="231" opacity="0.75" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" stroke="#3da9b5" fill="#333">SEO</text>
+  <text id="svg_7" xml:space="preserve" text-anchor="middle" font-family="Helvetica Neue" font-size="36" y="147" x="118" opacity="0.75" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" stroke="#3da9b5" fill="#333">Web</text>
+  <text id="svg_8" xml:space="preserve" text-anchor="middle" font-family="Helvetica Neue" font-size="36" y="147" x="330" opacity="0.75" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" stroke="#3da9b5" fill="#333">PPC</text>
+ </g>
+</svg>

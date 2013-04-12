@@ -159,11 +159,21 @@ section {
  */
 
 #section2
-{ 
-	img
+{
+	figure
 	{
-		display: block;
-		max-width: 100%;
+		margin: 0 0 1.0rem 0; padding: 0;
+		img
+		{
+			max-width: 100%;
+		}
+		figcaption
+		{
+			text-align: center;
+			font-style: oblique;
+			color: @mid-gray;
+			.font-size(0.8);
+		}
 	}
 }
 #section4,
@@ -252,7 +262,7 @@ section {
 	 */
 	#section2
 	{
-		img
+		figure
 		{
 			width: 50%;
 			float: left;
